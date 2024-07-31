@@ -35,4 +35,4 @@ e se vista;
 abra a porta do banheiro;
 saia do banheiro;
 feche a porta do banheiro;
-fim
+fim.
